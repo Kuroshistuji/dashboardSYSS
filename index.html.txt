@@ -1,13 +1,14 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+  <meta charset="UTF-8">
   <title>Dashboard SYS</title>
-  <meta http-equiv="refresh" content="0; url=https://script.google.com/macros/s/AKfycbwslNaEzS3BkQYgdTc1cgqNw3X0MKeyf6n8qPPb0zZV6ydDA6TvbKIm9AKZYObi1Odo/exec">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script>
+    window.location.href = "https://script.google.com/macros/s/AKfycbwslNaEzS3BkQYgdTc1cgqNw3X0MKeyf6n8qPPb0zZV6ydDA6TvbKIm9AKZYObi1Odo/exec";
+  </script>
 </head>
 <body style="background:#0f172a;color:white;display:flex;justify-content:center;align-items:center;height:100vh;font-family:Arial;">
-  <div>
-    <h2>Redirecting to Dashboard...</h2>
-  </div>
+  <h2>Redirecting to Dashboard...</h2>
 </body>
 </html>
